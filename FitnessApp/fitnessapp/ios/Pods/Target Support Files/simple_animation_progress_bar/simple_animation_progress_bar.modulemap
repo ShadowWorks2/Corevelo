@@ -1,0 +1,6 @@
+framework module simple_animation_progress_bar {
+  umbrella header "simple_animation_progress_bar-umbrella.h"
+
+  export *
+  module * { export * }
+}
