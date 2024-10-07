@@ -16,3 +16,24 @@ class AppColors{
   static List<Color> get primaryG => [primaryColor1,primaryColor2];
   static List<Color> get secondaryG => [secondaryColor1,secondaryColor2];
 }
+
+// class AppColors{
+//  static const primaryColor1 =  Color(0xFFEE583F);
+//  static const primaryColor2 =  Color(0xFFE3D3FE);
+
+
+//  static const secondaryColor1 =  Color(0xFF93B9F0);
+//  static const secondaryColor2 =  Color(0xFFCAE0ED);
+
+
+//  static const whiteColor = Color(0xFF93B9F0);
+//  static const blackColor = Color(0xFF1D1617);
+//  static const grayColor = Color(0xFF7B6F72);
+//  static const lightGrayColor = Color(0xFF7B6F72);
+//  static const midGrayColor = Color(0xFFADA4A5);
+
+
+//  static List<Color> get primaryG => [primaryColor1,primaryColor2];
+//  static List<Color> get secondaryG => [secondaryColor1,secondaryColor2];
+// }
+

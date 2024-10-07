@@ -1,0 +1,1 @@
+ /Users/marshallrasmussen/Documents/Projects/Corevelo/FitnessApp/fitnessapp/.dart_tool/flutter_build/990a1441017745dc8a1a68bc5e5dba39/native_assets.yaml: 

@@ -315,7 +315,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/marshallrasmussen/.pub-cache/hosted/pub.dev/vm_service-14.2.4",
+      "rootUri": "file:///Users/marshallrasmussen/.pub-cache/hosted/pub.dev/vm_service-14.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -338,10 +338,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-08-24T23:06:17.374269Z",
+  "generated": "2024-09-26T17:02:01.815576Z",
   "generator": "pub",
-  "generatorVersion": "3.5.0",
+  "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/marshallrasmussen/Documents/Projects/flutter",
-  "flutterVersion": "3.24.0",
+  "flutterVersion": "3.24.3",
   "pubCache": "file:///Users/marshallrasmussen/.pub-cache"
 }

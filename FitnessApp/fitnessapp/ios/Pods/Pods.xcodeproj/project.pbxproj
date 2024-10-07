@@ -22,115 +22,115 @@
 		037EC5E3EF568E97D7A23F9DF82E47EF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		0BD37CC96A6986EC719634075789E46B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		2401C748AE4FF4DEE2BCD2FE45495109 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		4720805F15F36BF654CBF88E998035CA /* FlutterNativeSplashPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 5893C5ACB84C4E9C418A4FEE89759C65 /* FlutterNativeSplashPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6B1E62EB116E7D7A6252B6F079890306 /* Pods-RunnerTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3DB54C128E3D88C0C9C7DDEA475ED7 /* Pods-RunnerTests-dummy.m */; };
+		753DFD1B5F683C9F88D16DA2AAFDD3F7 /* FlutterNativeSplashPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 84BA155C58D871CB2B527564BDC6E385 /* FlutterNativeSplashPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8490D1A56744C8E241AAD01B99E1148F /* Pods-Runner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E794494AB90477BA94C681E994ADF341 /* Pods-Runner-dummy.m */; };
-		A8027F82D0C3DAC444344FC55BF46064 /* flutter_native_splash-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 02BDA0505639F678789F33770840DD9E /* flutter_native_splash-dummy.m */; };
-		B9B8BAD47A031B18A61A8982B5D833B9 /* simple_animation_progress_bar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AFD5C9F847EBA30FCC445EDD382AE6DC /* simple_animation_progress_bar-dummy.m */; };
-		CC2727E9676E76D8E0051AC489FED997 /* simple_animation_progress_bar-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F1D998E348DD3173F6153A278B6FBFB5 /* simple_animation_progress_bar-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E0F281F551A8E55D3980BF66BC672EE8 /* SimpleAnimationProgressBarPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72928B5295A9F79A063535ECBCDF156D /* SimpleAnimationProgressBarPlugin.swift */; };
+		86E79666D2296D4BFCFA9AC225B551BE /* FlutterNativeSplashPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 601E30F8A46D1BEB86B36187DCA3A94D /* FlutterNativeSplashPlugin.m */; };
+		8C002A7A5F27DA57616D2494802A2D68 /* SimpleAnimationProgressBarPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE2165393C05807503CAEE99F1CC28E /* SimpleAnimationProgressBarPlugin.swift */; };
+		A8027F82D0C3DAC444344FC55BF46064 /* flutter_native_splash-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C756D19C7F2DC6EB8D130461BCF6D42 /* flutter_native_splash-dummy.m */; };
+		B9B8BAD47A031B18A61A8982B5D833B9 /* simple_animation_progress_bar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 29FC077F1D722CD2D3C2B576B70075A1 /* simple_animation_progress_bar-dummy.m */; };
+		CC2727E9676E76D8E0051AC489FED997 /* simple_animation_progress_bar-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 18AD3A13A98509A51BEF1AD63E85FBEC /* simple_animation_progress_bar-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E1E3EF09373D381ABDDE6684877D8A7D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		E57436A58519005E2E87CE3A5D95C300 /* Pods-Runner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 499E3722E8DACDC2AAA6C15AD1796520 /* Pods-Runner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FBDA6C8A55A2D0919D8AAD5392E176EA /* flutter_native_splash-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A423FBE062057BDD8092A3FCE8BEB77 /* flutter_native_splash-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FBDA6C8A55A2D0919D8AAD5392E176EA /* flutter_native_splash-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FF81B5CB1AC3E737B5B89276817B13C5 /* flutter_native_splash-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FC05A1BE39A9244D5B09A2F3B09A967A /* Pods-RunnerTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E9B12BCE5540D02A80250C3EC16D399 /* Pods-RunnerTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FC0C9170D4A8A1513F587B518DACA5F5 /* FlutterNativeSplashPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 58ED6889845B09631CC481ECF14133A5 /* FlutterNativeSplashPlugin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2A4FF4FD24D60E713BA991DAD13166CF /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
-		};
-		3611B913516E83152A989AD65CB0F5AB /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 36DCFAF5755EC2D8A75B4F250108A359;
-			remoteInfo = flutter_native_splash;
-		};
-		BAEA9456118342E7013E5A99D2C25225 /* PBXContainerItemProxy */ = {
+		46806CC57403C1566924952921217D35 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2CBFA202F6BDD2FB6E6682FA466CF1FE;
 			remoteInfo = simple_animation_progress_bar;
 		};
-		C1E2027088009361D34933A86BC32127 /* PBXContainerItemProxy */ = {
+		6D24428B50D7BC6E96E8B9E638E30281 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		81393D60D6775F2ABB40562A99E84ED9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		B339E886A73B041E9028BE275DC13BBE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		DE0B724F583B8ABC0C0704F6DC1244C9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 36DCFAF5755EC2D8A75B4F250108A359;
+			remoteInfo = flutter_native_splash;
+		};
+		EF1431D1F88A9F30807F0748132F4462 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8B74B458B450D74B75744B87BD747314;
 			remoteInfo = "Pods-Runner";
 		};
-		C50FF58E10181ABB2BA92D43DA31D1BE /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
-		};
-		E27962840EF1A1EC482A394435524C7B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		02BDA0505639F678789F33770840DD9E /* flutter_native_splash-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "flutter_native_splash-dummy.m"; sourceTree = "<group>"; };
+		006BF690150107D15B2AE4A877CEA30E /* simple_animation_progress_bar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = simple_animation_progress_bar.debug.xcconfig; sourceTree = "<group>"; };
 		03E8AD2E8B75443E12D3D3BD12A9900E /* Pods-RunnerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RunnerTests.debug.xcconfig"; sourceTree = "<group>"; };
+		082CCE3FA1EDA1A6B8BD78C65B598DD6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/LICENSE"; sourceTree = "<group>"; };
 		0AFB643DA4919253F749E2836A5AAFDC /* Pods-Runner-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-Info.plist"; sourceTree = "<group>"; };
 		11AA7018F95317D959D9D2E76CBB2377 /* Pods-RunnerTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RunnerTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		1491FB8ED17D35E4D0544D0BD67FDDE5 /* flutter_native_splash.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = flutter_native_splash.modulemap; sourceTree = "<group>"; };
+		18AD3A13A98509A51BEF1AD63E85FBEC /* simple_animation_progress_bar-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "simple_animation_progress_bar-umbrella.h"; sourceTree = "<group>"; };
 		1B136F41D5B5FAE96EA576E768A5771D /* Pods-Runner-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-acknowledgements.plist"; sourceTree = "<group>"; };
+		225F726B15D39A1A65B957D515BBDA4E /* simple_animation_progress_bar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "simple_animation_progress_bar-prefix.pch"; sourceTree = "<group>"; };
 		27BA5E070687D9FB5D9F9AB5E0C36C1B /* simple_animation_progress_bar */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = simple_animation_progress_bar; path = simple_animation_progress_bar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		397E2B4DFF9CD27F0D49BD4A077DF735 /* simple_animation_progress_bar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = simple_animation_progress_bar.debug.xcconfig; sourceTree = "<group>"; };
-		398ED99A71837DC907F468AA8052E9F0 /* flutter_native_splash.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = flutter_native_splash.modulemap; sourceTree = "<group>"; };
+		29FC077F1D722CD2D3C2B576B70075A1 /* simple_animation_progress_bar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "simple_animation_progress_bar-dummy.m"; sourceTree = "<group>"; };
+		2C51AB3A0000648F063373F0DCBB3153 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/LICENSE"; sourceTree = "<group>"; };
+		35B14DCD3BF3EFAFBCEC42BF9B695A0D /* simple_animation_progress_bar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = simple_animation_progress_bar.modulemap; sourceTree = "<group>"; };
 		499E3722E8DACDC2AAA6C15AD1796520 /* Pods-Runner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Runner-umbrella.h"; sourceTree = "<group>"; };
-		4AE743C7F50BD955BDE578F5BE294D01 /* flutter_native_splash.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = flutter_native_splash.debug.xcconfig; sourceTree = "<group>"; };
+		4AE2165393C05807503CAEE99F1CC28E /* SimpleAnimationProgressBarPlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SimpleAnimationProgressBarPlugin.swift; path = "../../../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/ios/Classes/SimpleAnimationProgressBarPlugin.swift"; sourceTree = "<group>"; };
 		4D3DB54C128E3D88C0C9C7DDEA475ED7 /* Pods-RunnerTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RunnerTests-dummy.m"; sourceTree = "<group>"; };
-		52A8AC09B37AE9A4DD92AC912F4551A2 /* simple_animation_progress_bar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = simple_animation_progress_bar.modulemap; sourceTree = "<group>"; };
+		50653DAF5AF7C91DFBDDA856D153DDEF /* simple_animation_progress_bar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = simple_animation_progress_bar.release.xcconfig; sourceTree = "<group>"; };
+		563101F7B8C980373203EB0E8436C72B /* flutter_native_splash-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "flutter_native_splash-prefix.pch"; sourceTree = "<group>"; };
 		570758359ECA629D22B6A8420F28158A /* flutter_native_splash */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = flutter_native_splash; path = flutter_native_splash.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5893C5ACB84C4E9C418A4FEE89759C65 /* FlutterNativeSplashPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FlutterNativeSplashPlugin.h; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios/Classes/FlutterNativeSplashPlugin.h"; sourceTree = "<group>"; };
-		58ED6889845B09631CC481ECF14133A5 /* FlutterNativeSplashPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FlutterNativeSplashPlugin.m; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios/Classes/FlutterNativeSplashPlugin.m"; sourceTree = "<group>"; };
+		601E30F8A46D1BEB86B36187DCA3A94D /* FlutterNativeSplashPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FlutterNativeSplashPlugin.m; path = "../../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios/Classes/FlutterNativeSplashPlugin.m"; sourceTree = "<group>"; };
 		669E8F25E1897672BDB80B7EB784DA24 /* Pods-Runner */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Runner"; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6A423FBE062057BDD8092A3FCE8BEB77 /* flutter_native_splash-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "flutter_native_splash-umbrella.h"; sourceTree = "<group>"; };
 		6C3345B1B3CAEDF5B03B1F731FDC492E /* Pods-RunnerTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-RunnerTests"; path = Pods_RunnerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C756D19C7F2DC6EB8D130461BCF6D42 /* flutter_native_splash-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "flutter_native_splash-dummy.m"; sourceTree = "<group>"; };
 		728A5ED1DD60BAC8C8F382A87B976F84 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
-		72928B5295A9F79A063535ECBCDF156D /* SimpleAnimationProgressBarPlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SimpleAnimationProgressBarPlugin.swift; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/ios/Classes/SimpleAnimationProgressBarPlugin.swift"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		773BFCE41424EB8EBB72EF3F6A5FB719 /* Pods-Runner-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Runner-frameworks.sh"; sourceTree = "<group>"; };
 		79F83F4D505FA40C1CD18A8029181D59 /* Pods-RunnerTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RunnerTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		95CF8928B0DC7B276A001D8C12573A37 /* flutter_native_splash.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = flutter_native_splash.podspec; path = "../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios/flutter_native_splash.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7AF2C416A5D701E69DEEA6F59DD6B04C /* flutter_native_splash.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = flutter_native_splash.release.xcconfig; sourceTree = "<group>"; };
+		84BA155C58D871CB2B527564BDC6E385 /* FlutterNativeSplashPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FlutterNativeSplashPlugin.h; path = "../../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios/Classes/FlutterNativeSplashPlugin.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E9B12BCE5540D02A80250C3EC16D399 /* Pods-RunnerTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RunnerTests-umbrella.h"; sourceTree = "<group>"; };
-		9F3D068E3A9BA027CA4FA334FCE52547 /* flutter_native_splash-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "flutter_native_splash-Info.plist"; sourceTree = "<group>"; };
 		AAD1756C1B3E3FD9F4B04CC07523F0F8 /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AC8FE152530FBDCE460186B326C1A8FB /* Pods-RunnerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RunnerTests.release.xcconfig"; sourceTree = "<group>"; };
-		AFD5C9F847EBA30FCC445EDD382AE6DC /* simple_animation_progress_bar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "simple_animation_progress_bar-dummy.m"; sourceTree = "<group>"; };
 		B00A5ECAED4CA0C16FF7C65365BC0334 /* Pods-RunnerTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RunnerTests-Info.plist"; sourceTree = "<group>"; };
 		B0BD57AB3672E53828D11C2A3368023A /* Pods-RunnerTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RunnerTests.modulemap"; sourceTree = "<group>"; };
+		B11C3F84C1EDA6DEDFC10468B49C0104 /* simple_animation_progress_bar.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = simple_animation_progress_bar.podspec; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/ios/simple_animation_progress_bar.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B703785507B22BAF0B800737429577EC /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
-		B9BA4CC6533480ABE1BCCCA1AE23DA4A /* flutter_native_splash.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = flutter_native_splash.release.xcconfig; sourceTree = "<group>"; };
-		BF5607354633D16852BE7C785BDD4EA3 /* flutter_native_splash-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "flutter_native_splash-prefix.pch"; sourceTree = "<group>"; };
-		C199E00A1959361AA5CB40B3B234A69D /* simple_animation_progress_bar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = simple_animation_progress_bar.release.xcconfig; sourceTree = "<group>"; };
+		B7241E94C9FAF913267DBE680F2B0426 /* flutter_native_splash-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "flutter_native_splash-Info.plist"; sourceTree = "<group>"; };
 		C24C1A035F22D24883C6F1876F274C6F /* Pods-Runner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Runner.modulemap"; sourceTree = "<group>"; };
+		C2EA22D9746EEC57D09B6B618EF7B829 /* flutter_native_splash.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = flutter_native_splash.debug.xcconfig; sourceTree = "<group>"; };
 		C50FD10CD19FF6999637BA5ECAF1681B /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
-		DCEF500C85343C94690E56B94F4A4A91 /* simple_animation_progress_bar-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "simple_animation_progress_bar-Info.plist"; sourceTree = "<group>"; };
-		E299487231AC68D6C841D1EB4B966C7A /* simple_animation_progress_bar.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = simple_animation_progress_bar.podspec; path = "../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/ios/simple_animation_progress_bar.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E3F2E6BC9A2BEA2DB9E7990CD47F5604 /* Flutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.debug.xcconfig; sourceTree = "<group>"; };
 		E736E0C9C5B73D27B8865E363E2108AC /* Pods-RunnerTests.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RunnerTests.profile.xcconfig"; sourceTree = "<group>"; };
 		E794494AB90477BA94C681E994ADF341 /* Pods-Runner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Runner-dummy.m"; sourceTree = "<group>"; };
-		E87D1014EB51C905F5CE74D271C5921B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/LICENSE"; sourceTree = "<group>"; };
+		E7C13E77FCAEE6438E4C16D63EBE6C9A /* flutter_native_splash.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = flutter_native_splash.podspec; path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios/flutter_native_splash.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ECDF6AA713870989438BA93B395DC557 /* Pods-Runner-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Runner-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F1D998E348DD3173F6153A278B6FBFB5 /* simple_animation_progress_bar-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "simple_animation_progress_bar-umbrella.h"; sourceTree = "<group>"; };
-		F42ED8602AAB005403829B9E5046CEB1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/LICENSE"; sourceTree = "<group>"; };
-		F9B0E70E9E5367B104BB3D18E3D5976A /* simple_animation_progress_bar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "simple_animation_progress_bar-prefix.pch"; sourceTree = "<group>"; };
 		FBD1EE4B6825FDF4B5F69359A837A825 /* Flutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.release.xcconfig; sourceTree = "<group>"; };
+		FDD2173DE67314144974EE40367BC6DD /* simple_animation_progress_bar-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "simple_animation_progress_bar-Info.plist"; sourceTree = "<group>"; };
+		FF81B5CB1AC3E737B5B89276817B13C5 /* flutter_native_splash-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "flutter_native_splash-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,67 +169,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		086268E3D10BD9A15823D9597660562E /* ios */ = {
+		0042EDE9E4DB0537710D7C58A6F356D6 /* Projects */ = {
 			isa = PBXGroup;
 			children = (
-				353B6A8288CA869F3E8F78169A3A1199 /* Classes */,
-			);
-			name = ios;
-			path = ios;
-			sourceTree = "<group>";
-		};
-		0C6FD094DA0849FB081BF4224AADBCE2 /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				C764FBC701F40E90991436CCE2BF64C0 /* .. */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		10484C7AEA1185AA1E35CD22D8162CCE /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				8065D6FD6FB1C5F120A428AF9A9917FC /* Documents */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		16BD69D405701AD0396E6EA3F1E679F3 /* flutter_native_splash */ = {
-			isa = PBXGroup;
-			children = (
-				086268E3D10BD9A15823D9597660562E /* ios */,
-			);
-			name = flutter_native_splash;
-			path = flutter_native_splash;
-			sourceTree = "<group>";
-		};
-		1A1D8C8735D6FE9494F19BDCC8BC9EFA /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				F42ED8602AAB005403829B9E5046CEB1 /* LICENSE */,
-				E299487231AC68D6C841D1EB4B966C7A /* simple_animation_progress_bar.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		2689D82739C5AEA5D1CB18C1C9B3E0BA /* Documents */ = {
-			isa = PBXGroup;
-			children = (
-				2B253C34E9EB1EEE5A20C694BC26D389 /* Projects */,
-			);
-			name = Documents;
-			path = Documents;
-			sourceTree = "<group>";
-		};
-		2B253C34E9EB1EEE5A20C694BC26D389 /* Projects */ = {
-			isa = PBXGroup;
-			children = (
-				E354260B8C2C66EF6C8B4146922E7103 /* FitnessApp */,
+				F87A0E23F177CC706591AC3450F4527F /* Corevelo */,
 			);
 			name = Projects;
 			path = Projects;
+			sourceTree = "<group>";
+		};
+		26E11D3ADABC2CABB3531958FA4EEE68 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				9D731E78737E24CC22DE6CE852651658 /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		28198A0F210DAEA0925F901192951B3C /* FitnessApp */ = {
+			isa = PBXGroup;
+			children = (
+				BC3344935CBA4593FFE2C0AB001451F2 /* fitnessapp */,
+			);
+			name = FitnessApp;
+			path = FitnessApp;
 			sourceTree = "<group>";
 		};
 		2DB8426A477BA92773F00012EBA84D53 /* Targets Support Files */ = {
@@ -239,6 +203,15 @@
 				537E840C4F4E30B706FD9D64B15C53A7 /* Pods-RunnerTests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		31E6D1213A084C8DCF69DD5D5CCFF6E5 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				CAF2C7C1DF14794B573BE30A96FEB400 /* .symlinks */,
+			);
+			name = ios;
+			path = ios;
 			sourceTree = "<group>";
 		};
 		32CF689455DFED194382B3B046D4C428 /* Support Files */ = {
@@ -251,20 +224,37 @@
 			path = "../Pods/Target Support Files/Flutter";
 			sourceTree = "<group>";
 		};
-		353B6A8288CA869F3E8F78169A3A1199 /* Classes */ = {
+		32D049F93CE33F67FDC2ADA4B91C7771 /* FitnessApp */ = {
 			isa = PBXGroup;
 			children = (
-				5893C5ACB84C4E9C418A4FEE89759C65 /* FlutterNativeSplashPlugin.h */,
-				58ED6889845B09631CC481ECF14133A5 /* FlutterNativeSplashPlugin.m */,
+				66943C42330FD6014748B83D8A401439 /* fitnessapp */,
 			);
-			name = Classes;
-			path = Classes;
+			name = FitnessApp;
+			path = FitnessApp;
 			sourceTree = "<group>";
 		};
-		3CE3040B94836A8CDCF55BE0730C87E3 /* .. */ = {
+		34ABA4B56B3684F5A9650EB81A79ECBF /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				8B0B72534DCE33D41CB0E53EAFEAA196 /* .. */,
+				082CCE3FA1EDA1A6B8BD78C65B598DD6 /* LICENSE */,
+				B11C3F84C1EDA6DEDFC10468B49C0104 /* simple_animation_progress_bar.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		3F2E79F0DDD943B9BDD8D20ED390A6AB /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				DEDBDA3E5A4A5DF7A39202DE7F13FF2E /* Documents */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4289CAFC50E16C8C9ECE2A41EB41CB76 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				651090109F7313414EDDAE3EB153CE52 /* .. */,
 			);
 			name = ..;
 			path = ..;
@@ -280,19 +270,13 @@
 			path = ../Flutter;
 			sourceTree = "<group>";
 		};
-		4C6DC6D89CF3FC3AC5989155E06D950E /* Support Files */ = {
+		4EB1EDE926E1C2829E5487477F4A76F8 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				398ED99A71837DC907F468AA8052E9F0 /* flutter_native_splash.modulemap */,
-				02BDA0505639F678789F33770840DD9E /* flutter_native_splash-dummy.m */,
-				9F3D068E3A9BA027CA4FA334FCE52547 /* flutter_native_splash-Info.plist */,
-				BF5607354633D16852BE7C785BDD4EA3 /* flutter_native_splash-prefix.pch */,
-				6A423FBE062057BDD8092A3FCE8BEB77 /* flutter_native_splash-umbrella.h */,
-				4AE743C7F50BD955BDE578F5BE294D01 /* flutter_native_splash.debug.xcconfig */,
-				B9BA4CC6533480ABE1BCCCA1AE23DA4A /* flutter_native_splash.release.xcconfig */,
+				6D1E66260671B64BF2616D43B6BC4305 /* .. */,
 			);
-			name = "Support Files";
-			path = "../../../../Pods/Target Support Files/flutter_native_splash";
+			name = ..;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		537E840C4F4E30B706FD9D64B15C53A7 /* Pods-RunnerTests */ = {
@@ -312,6 +296,15 @@
 			path = "Target Support Files/Pods-RunnerTests";
 			sourceTree = "<group>";
 		};
+		575A6B513456DBBA695AEB2C955DEB9E /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				4EB1EDE926E1C2829E5487477F4A76F8 /* .. */,
+			);
+			name = ..;
+			path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios";
+			sourceTree = "<group>";
+		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -320,28 +313,37 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		6458A75F130189C0647B5826DCDA6F68 /* Projects */ = {
+		5EBCC3EE152D9CE83B4BE632853BDD89 /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				D4FE1E3C990AFECAA60B5AA5A8428127 /* FitnessApp */,
+				E7F0DCA6CD7BEA26537B7337907D8CA0 /* Projects */,
 			);
-			name = Projects;
-			path = Projects;
+			name = Documents;
+			path = Documents;
 			sourceTree = "<group>";
 		};
-		66140FC1FD77330AFBAD8CFEB7468BF4 /* Classes */ = {
+		651090109F7313414EDDAE3EB153CE52 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				72928B5295A9F79A063535ECBCDF156D /* SimpleAnimationProgressBarPlugin.swift */,
+				3F2E79F0DDD943B9BDD8D20ED390A6AB /* .. */,
 			);
-			name = Classes;
-			path = Classes;
+			name = ..;
+			path = ..;
 			sourceTree = "<group>";
 		};
-		67106C50728CF259F64957464003D470 /* .. */ = {
+		66943C42330FD6014748B83D8A401439 /* fitnessapp */ = {
 			isa = PBXGroup;
 			children = (
-				A0EBDEDAEBC388A55442C29EA9E9E839 /* .. */,
+				BBAA622A3EFBC1904649AAF2C40530C7 /* ios */,
+			);
+			name = fitnessapp;
+			path = fitnessapp;
+			sourceTree = "<group>";
+		};
+		6D1E66260671B64BF2616D43B6BC4305 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				ABD8C885238EE64A926A585351153664 /* .. */,
 			);
 			name = ..;
 			path = ..;
@@ -351,64 +353,30 @@
 			isa = PBXGroup;
 			children = (
 				46F0E721258CA47E6355EEDA32E9B27E /* Flutter */,
-				9277C1C0D7687A10A4B33181B744FF20 /* flutter_native_splash */,
-				F1689864B1C805E70821DB02DE36C3FE /* simple_animation_progress_bar */,
+				A874A5BFD1950376D6D28E11BA3A8290 /* flutter_native_splash */,
+				73B550F55D65545308B18C7326A088F4 /* simple_animation_progress_bar */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		75BEDFEAF9B1F54F764743597A0BA1BC /* plugins */ = {
+		73B550F55D65545308B18C7326A088F4 /* simple_animation_progress_bar */ = {
 			isa = PBXGroup;
 			children = (
-				16BD69D405701AD0396E6EA3F1E679F3 /* flutter_native_splash */,
+				F2B97CC64CDD5D28057679A4C64A7A68 /* .. */,
+				34ABA4B56B3684F5A9650EB81A79ECBF /* Pod */,
+				EC99E6CE79288771A3964938D0E6C4F2 /* Support Files */,
 			);
-			name = plugins;
-			path = plugins;
+			name = simple_animation_progress_bar;
+			path = ../.symlinks/plugins/simple_animation_progress_bar/ios;
 			sourceTree = "<group>";
 		};
-		78EFA236EBDE7EF6A8502AE4E28280B5 /* ios */ = {
+		7CBF235920FEE9B2EC05993EDA749811 /* ios */ = {
 			isa = PBXGroup;
 			children = (
-				81A054CC605AF420457F32269928C236 /* .symlinks */,
+				91D535BB4A2DB64643E3FC1E98997724 /* Classes */,
 			);
 			name = ios;
 			path = ios;
-			sourceTree = "<group>";
-		};
-		7ACB1CD3807DB64FBEE74288DCB1178D /* .symlinks */ = {
-			isa = PBXGroup;
-			children = (
-				75BEDFEAF9B1F54F764743597A0BA1BC /* plugins */,
-			);
-			name = .symlinks;
-			path = .symlinks;
-			sourceTree = "<group>";
-		};
-		7F7F94D26C3FDAA3B4F9BB156B9CC0E9 /* plugins */ = {
-			isa = PBXGroup;
-			children = (
-				C19427E825C5CAC72B0E20093452327C /* simple_animation_progress_bar */,
-			);
-			name = plugins;
-			path = plugins;
-			sourceTree = "<group>";
-		};
-		8065D6FD6FB1C5F120A428AF9A9917FC /* Documents */ = {
-			isa = PBXGroup;
-			children = (
-				6458A75F130189C0647B5826DCDA6F68 /* Projects */,
-			);
-			name = Documents;
-			path = Documents;
-			sourceTree = "<group>";
-		};
-		81A054CC605AF420457F32269928C236 /* .symlinks */ = {
-			isa = PBXGroup;
-			children = (
-				7F7F94D26C3FDAA3B4F9BB156B9CC0E9 /* plugins */,
-			);
-			name = .symlinks;
-			path = .symlinks;
 			sourceTree = "<group>";
 		};
 		89EF7C6804B9914FD1D8C926C3761CBE /* Products */ = {
@@ -422,96 +390,142 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8B0B72534DCE33D41CB0E53EAFEAA196 /* .. */ = {
+		8E79742B71ACC8DC9A570D0F2694AC93 /* flutter_native_splash */ = {
 			isa = PBXGroup;
 			children = (
-				C47034B09A8D2C41C714CA60D3E850D4 /* .. */,
+				7CBF235920FEE9B2EC05993EDA749811 /* ios */,
+			);
+			name = flutter_native_splash;
+			path = flutter_native_splash;
+			sourceTree = "<group>";
+		};
+		91D535BB4A2DB64643E3FC1E98997724 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				84BA155C58D871CB2B527564BDC6E385 /* FlutterNativeSplashPlugin.h */,
+				601E30F8A46D1BEB86B36187DCA3A94D /* FlutterNativeSplashPlugin.m */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		957074E4CCB5D7D630C2E40B3EBD32C1 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				A561DD1485A0F595396C4E9428741446 /* .. */,
 			);
 			name = ..;
 			path = ..;
 			sourceTree = "<group>";
 		};
-		9277C1C0D7687A10A4B33181B744FF20 /* flutter_native_splash */ = {
+		9D731E78737E24CC22DE6CE852651658 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				CC34E6D7726DD4449BBC81D025E500A8 /* .. */,
-				D3010D489370F88CAB822E0F9701196D /* Pod */,
-				4C6DC6D89CF3FC3AC5989155E06D950E /* Support Files */,
+				5EBCC3EE152D9CE83B4BE632853BDD89 /* Documents */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		A561DD1485A0F595396C4E9428741446 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				4289CAFC50E16C8C9ECE2A41EB41CB76 /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		A874A5BFD1950376D6D28E11BA3A8290 /* flutter_native_splash */ = {
+			isa = PBXGroup;
+			children = (
+				575A6B513456DBBA695AEB2C955DEB9E /* .. */,
+				BDB3BA2E62FDD80846C0C236EA61EBA3 /* Pod */,
+				F213334726E3F4B12E6FC1EB5F6BF1A5 /* Support Files */,
 			);
 			name = flutter_native_splash;
 			path = ../.symlinks/plugins/flutter_native_splash/ios;
 			sourceTree = "<group>";
 		};
-		A0EBDEDAEBC388A55442C29EA9E9E839 /* .. */ = {
+		ABD8C885238EE64A926A585351153664 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				0C6FD094DA0849FB081BF4224AADBCE2 /* .. */,
+				26E11D3ADABC2CABB3531958FA4EEE68 /* .. */,
 			);
 			name = ..;
 			path = ..;
 			sourceTree = "<group>";
 		};
-		A5D5676346FE1FFC1CC6EBFFCCC13598 /* ios */ = {
+		B52BC716511700237B6DF6AF6534DED1 /* Corevelo */ = {
 			isa = PBXGroup;
 			children = (
-				66140FC1FD77330AFBAD8CFEB7468BF4 /* Classes */,
+				32D049F93CE33F67FDC2ADA4B91C7771 /* FitnessApp */,
+			);
+			name = Corevelo;
+			path = Corevelo;
+			sourceTree = "<group>";
+		};
+		BBAA622A3EFBC1904649AAF2C40530C7 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				E1A8F7AA41C53C0A6C99C57DBE71D76D /* .symlinks */,
 			);
 			name = ios;
 			path = ios;
 			sourceTree = "<group>";
 		};
-		AE469E35EFC9875E114CE0A5EC8705A5 /* fitnessapp */ = {
+		BC3344935CBA4593FFE2C0AB001451F2 /* fitnessapp */ = {
 			isa = PBXGroup;
 			children = (
-				B903A64F340CECBA0A9A2C082036DB80 /* ios */,
+				31E6D1213A084C8DCF69DD5D5CCFF6E5 /* ios */,
 			);
 			name = fitnessapp;
 			path = fitnessapp;
 			sourceTree = "<group>";
 		};
-		B903A64F340CECBA0A9A2C082036DB80 /* ios */ = {
+		BDB3BA2E62FDD80846C0C236EA61EBA3 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				7ACB1CD3807DB64FBEE74288DCB1178D /* .symlinks */,
+				E7C13E77FCAEE6438E4C16D63EBE6C9A /* flutter_native_splash.podspec */,
+				2C51AB3A0000648F063373F0DCBB3153 /* LICENSE */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		CAF2C7C1DF14794B573BE30A96FEB400 /* .symlinks */ = {
+			isa = PBXGroup;
+			children = (
+				F42CA7EFBFDD3A43A5110B81F1A7BC2A /* plugins */,
+			);
+			name = .symlinks;
+			path = .symlinks;
+			sourceTree = "<group>";
+		};
+		CB624BD362206CDF9A5977378CCC3BFC /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				8E79742B71ACC8DC9A570D0F2694AC93 /* flutter_native_splash */,
+			);
+			name = plugins;
+			path = plugins;
+			sourceTree = "<group>";
+		};
+		CD74F88E8E6FF1691F4340253A905510 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				CDA8A1B20F714360826DB2C2F15DD3BB /* Classes */,
 			);
 			name = ios;
 			path = ios;
 			sourceTree = "<group>";
 		};
-		C19427E825C5CAC72B0E20093452327C /* simple_animation_progress_bar */ = {
+		CDA8A1B20F714360826DB2C2F15DD3BB /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				A5D5676346FE1FFC1CC6EBFFCCC13598 /* ios */,
+				4AE2165393C05807503CAEE99F1CC28E /* SimpleAnimationProgressBarPlugin.swift */,
 			);
-			name = simple_animation_progress_bar;
-			path = simple_animation_progress_bar;
-			sourceTree = "<group>";
-		};
-		C47034B09A8D2C41C714CA60D3E850D4 /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				10484C7AEA1185AA1E35CD22D8162CCE /* .. */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		C764FBC701F40E90991436CCE2BF64C0 /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				D8D07B47A4DC5388B79F6059F1FB5FE3 /* .. */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		CC34E6D7726DD4449BBC81D025E500A8 /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				67106C50728CF259F64957464003D470 /* .. */,
-			);
-			name = ..;
-			path = "../../../../../../../../../.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.1/ios";
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -525,30 +539,12 @@
 			);
 			sourceTree = "<group>";
 		};
-		CF577F934020FACD446CC8CB1C64B446 /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				3CE3040B94836A8CDCF55BE0730C87E3 /* .. */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
 		D0F48BB4106368ABC82F1F2A5A48AB19 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
 				AAD1756C1B3E3FD9F4B04CC07523F0F8 /* Flutter.podspec */,
 			);
 			name = Pod;
-			sourceTree = "<group>";
-		};
-		D120E47E51E5850B098E4A390D8B9F90 /* fitnessapp */ = {
-			isa = PBXGroup;
-			children = (
-				78EFA236EBDE7EF6A8502AE4E28280B5 /* ios */,
-			);
-			name = fitnessapp;
-			path = fitnessapp;
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -559,40 +555,31 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D3010D489370F88CAB822E0F9701196D /* Pod */ = {
+		DEDBDA3E5A4A5DF7A39202DE7F13FF2E /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				95CF8928B0DC7B276A001D8C12573A37 /* flutter_native_splash.podspec */,
-				E87D1014EB51C905F5CE74D271C5921B /* LICENSE */,
+				0042EDE9E4DB0537710D7C58A6F356D6 /* Projects */,
 			);
-			name = Pod;
+			name = Documents;
+			path = Documents;
 			sourceTree = "<group>";
 		};
-		D4FE1E3C990AFECAA60B5AA5A8428127 /* FitnessApp */ = {
+		E1A8F7AA41C53C0A6C99C57DBE71D76D /* .symlinks */ = {
 			isa = PBXGroup;
 			children = (
-				D120E47E51E5850B098E4A390D8B9F90 /* fitnessapp */,
+				CB624BD362206CDF9A5977378CCC3BFC /* plugins */,
 			);
-			name = FitnessApp;
-			path = FitnessApp;
+			name = .symlinks;
+			path = .symlinks;
 			sourceTree = "<group>";
 		};
-		D8D07B47A4DC5388B79F6059F1FB5FE3 /* .. */ = {
+		E7F0DCA6CD7BEA26537B7337907D8CA0 /* Projects */ = {
 			isa = PBXGroup;
 			children = (
-				2689D82739C5AEA5D1CB18C1C9B3E0BA /* Documents */,
+				B52BC716511700237B6DF6AF6534DED1 /* Corevelo */,
 			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		E354260B8C2C66EF6C8B4146922E7103 /* FitnessApp */ = {
-			isa = PBXGroup;
-			children = (
-				AE469E35EFC9875E114CE0A5EC8705A5 /* fitnessapp */,
-			);
-			name = FitnessApp;
-			path = FitnessApp;
+			name = Projects;
+			path = Projects;
 			sourceTree = "<group>";
 		};
 		E806A4F97D48F5FD3B4CA1BC617EA1F5 /* Pods-Runner */ = {
@@ -613,39 +600,70 @@
 			path = "Target Support Files/Pods-Runner";
 			sourceTree = "<group>";
 		};
-		E8E6317C084A7208C5B069626B9CE353 /* Support Files */ = {
+		EC99E6CE79288771A3964938D0E6C4F2 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				52A8AC09B37AE9A4DD92AC912F4551A2 /* simple_animation_progress_bar.modulemap */,
-				AFD5C9F847EBA30FCC445EDD382AE6DC /* simple_animation_progress_bar-dummy.m */,
-				DCEF500C85343C94690E56B94F4A4A91 /* simple_animation_progress_bar-Info.plist */,
-				F9B0E70E9E5367B104BB3D18E3D5976A /* simple_animation_progress_bar-prefix.pch */,
-				F1D998E348DD3173F6153A278B6FBFB5 /* simple_animation_progress_bar-umbrella.h */,
-				397E2B4DFF9CD27F0D49BD4A077DF735 /* simple_animation_progress_bar.debug.xcconfig */,
-				C199E00A1959361AA5CB40B3B234A69D /* simple_animation_progress_bar.release.xcconfig */,
+				35B14DCD3BF3EFAFBCEC42BF9B695A0D /* simple_animation_progress_bar.modulemap */,
+				29FC077F1D722CD2D3C2B576B70075A1 /* simple_animation_progress_bar-dummy.m */,
+				FDD2173DE67314144974EE40367BC6DD /* simple_animation_progress_bar-Info.plist */,
+				225F726B15D39A1A65B957D515BBDA4E /* simple_animation_progress_bar-prefix.pch */,
+				18AD3A13A98509A51BEF1AD63E85FBEC /* simple_animation_progress_bar-umbrella.h */,
+				006BF690150107D15B2AE4A877CEA30E /* simple_animation_progress_bar.debug.xcconfig */,
+				50653DAF5AF7C91DFBDDA856D153DDEF /* simple_animation_progress_bar.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../../../../Pods/Target Support Files/simple_animation_progress_bar";
 			sourceTree = "<group>";
 		};
-		F1689864B1C805E70821DB02DE36C3FE /* simple_animation_progress_bar */ = {
+		F213334726E3F4B12E6FC1EB5F6BF1A5 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				FBADBEFAACE8CFAE5FAFF8013BB81445 /* .. */,
-				1A1D8C8735D6FE9494F19BDCC8BC9EFA /* Pod */,
-				E8E6317C084A7208C5B069626B9CE353 /* Support Files */,
+				1491FB8ED17D35E4D0544D0BD67FDDE5 /* flutter_native_splash.modulemap */,
+				6C756D19C7F2DC6EB8D130461BCF6D42 /* flutter_native_splash-dummy.m */,
+				B7241E94C9FAF913267DBE680F2B0426 /* flutter_native_splash-Info.plist */,
+				563101F7B8C980373203EB0E8436C72B /* flutter_native_splash-prefix.pch */,
+				FF81B5CB1AC3E737B5B89276817B13C5 /* flutter_native_splash-umbrella.h */,
+				C2EA22D9746EEC57D09B6B618EF7B829 /* flutter_native_splash.debug.xcconfig */,
+				7AF2C416A5D701E69DEEA6F59DD6B04C /* flutter_native_splash.release.xcconfig */,
 			);
-			name = simple_animation_progress_bar;
-			path = ../.symlinks/plugins/simple_animation_progress_bar/ios;
+			name = "Support Files";
+			path = "../../../../Pods/Target Support Files/flutter_native_splash";
 			sourceTree = "<group>";
 		};
-		FBADBEFAACE8CFAE5FAFF8013BB81445 /* .. */ = {
+		F2B97CC64CDD5D28057679A4C64A7A68 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				CF577F934020FACD446CC8CB1C64B446 /* .. */,
+				957074E4CCB5D7D630C2E40B3EBD32C1 /* .. */,
 			);
 			name = ..;
-			path = "../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/ios";
+			path = "../../../../../../../../../../.pub-cache/hosted/pub.dev/simple_animation_progress_bar-1.6.0/ios";
+			sourceTree = "<group>";
+		};
+		F42CA7EFBFDD3A43A5110B81F1A7BC2A /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				F5D2FA3ED666DF41DB4C09E7BEBEB08B /* simple_animation_progress_bar */,
+			);
+			name = plugins;
+			path = plugins;
+			sourceTree = "<group>";
+		};
+		F5D2FA3ED666DF41DB4C09E7BEBEB08B /* simple_animation_progress_bar */ = {
+			isa = PBXGroup;
+			children = (
+				CD74F88E8E6FF1691F4340253A905510 /* ios */,
+			);
+			name = simple_animation_progress_bar;
+			path = simple_animation_progress_bar;
+			sourceTree = "<group>";
+		};
+		F87A0E23F177CC706591AC3450F4527F /* Corevelo */ = {
+			isa = PBXGroup;
+			children = (
+				28198A0F210DAEA0925F901192951B3C /* FitnessApp */,
+			);
+			name = Corevelo;
+			path = Corevelo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -672,7 +690,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBDA6C8A55A2D0919D8AAD5392E176EA /* flutter_native_splash-umbrella.h in Headers */,
-				4720805F15F36BF654CBF88E998035CA /* FlutterNativeSplashPlugin.h in Headers */,
+				753DFD1B5F683C9F88D16DA2AAFDD3F7 /* FlutterNativeSplashPlugin.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -699,7 +717,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				073F6E5B26CAA0491DB43E38D9EDB44F /* PBXTargetDependency */,
+				C5B9F7822A1703FDDBC8A08FE81D76B0 /* PBXTargetDependency */,
 			);
 			name = simple_animation_progress_bar;
 			productName = simple_animation_progress_bar;
@@ -718,7 +736,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				5C9E119756E2B3AB09860544C3E9B29E /* PBXTargetDependency */,
+				E07C05EA96D94C56A8FCAE866F615FBB /* PBXTargetDependency */,
 			);
 			name = "Pods-RunnerTests";
 			productName = Pods_RunnerTests;
@@ -737,7 +755,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				7CA8548574117BF9842FDE0B431D9541 /* PBXTargetDependency */,
+				A64C2BB7CF681CFA607E6F68609775A6 /* PBXTargetDependency */,
 			);
 			name = flutter_native_splash;
 			productName = flutter_native_splash;
@@ -756,9 +774,9 @@
 			buildRules = (
 			);
 			dependencies = (
-				713801C0BDFB01424AAFAFDD2588C977 /* PBXTargetDependency */,
-				BF2CDE460708518F4D5B57E55939D306 /* PBXTargetDependency */,
-				9E7FF48A7CCC24AEEF4FE882B0608A86 /* PBXTargetDependency */,
+				11399B81D61433C13C8F8459A0E07B55 /* PBXTargetDependency */,
+				0E164E4363195B8DEE01DFD2CF397A56 /* PBXTargetDependency */,
+				6F50CDA2E9D479437E1C208ACA7B1D64 /* PBXTargetDependency */,
 			);
 			name = "Pods-Runner";
 			productName = Pods_Runner;
@@ -834,7 +852,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9B8BAD47A031B18A61A8982B5D833B9 /* simple_animation_progress_bar-dummy.m in Sources */,
-				E0F281F551A8E55D3980BF66BC672EE8 /* SimpleAnimationProgressBarPlugin.swift in Sources */,
+				8C002A7A5F27DA57616D2494802A2D68 /* SimpleAnimationProgressBarPlugin.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -851,7 +869,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8027F82D0C3DAC444344FC55BF46064 /* flutter_native_splash-dummy.m in Sources */,
-				FC0C9170D4A8A1513F587B518DACA5F5 /* FlutterNativeSplashPlugin.m in Sources */,
+				86E79666D2296D4BFCFA9AC225B551BE /* FlutterNativeSplashPlugin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -866,48 +884,48 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		073F6E5B26CAA0491DB43E38D9EDB44F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = 2A4FF4FD24D60E713BA991DAD13166CF /* PBXContainerItemProxy */;
-		};
-		5C9E119756E2B3AB09860544C3E9B29E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-Runner";
-			target = 8B74B458B450D74B75744B87BD747314 /* Pods-Runner */;
-			targetProxy = C1E2027088009361D34933A86BC32127 /* PBXContainerItemProxy */;
-		};
-		713801C0BDFB01424AAFAFDD2588C977 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = E27962840EF1A1EC482A394435524C7B /* PBXContainerItemProxy */;
-		};
-		7CA8548574117BF9842FDE0B431D9541 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = C50FF58E10181ABB2BA92D43DA31D1BE /* PBXContainerItemProxy */;
-		};
-		9E7FF48A7CCC24AEEF4FE882B0608A86 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = simple_animation_progress_bar;
-			target = 2CBFA202F6BDD2FB6E6682FA466CF1FE /* simple_animation_progress_bar */;
-			targetProxy = BAEA9456118342E7013E5A99D2C25225 /* PBXContainerItemProxy */;
-		};
-		BF2CDE460708518F4D5B57E55939D306 /* PBXTargetDependency */ = {
+		0E164E4363195B8DEE01DFD2CF397A56 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = flutter_native_splash;
 			target = 36DCFAF5755EC2D8A75B4F250108A359 /* flutter_native_splash */;
-			targetProxy = 3611B913516E83152A989AD65CB0F5AB /* PBXContainerItemProxy */;
+			targetProxy = DE0B724F583B8ABC0C0704F6DC1244C9 /* PBXContainerItemProxy */;
+		};
+		11399B81D61433C13C8F8459A0E07B55 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = 81393D60D6775F2ABB40562A99E84ED9 /* PBXContainerItemProxy */;
+		};
+		6F50CDA2E9D479437E1C208ACA7B1D64 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = simple_animation_progress_bar;
+			target = 2CBFA202F6BDD2FB6E6682FA466CF1FE /* simple_animation_progress_bar */;
+			targetProxy = 46806CC57403C1566924952921217D35 /* PBXContainerItemProxy */;
+		};
+		A64C2BB7CF681CFA607E6F68609775A6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = 6D24428B50D7BC6E96E8B9E638E30281 /* PBXContainerItemProxy */;
+		};
+		C5B9F7822A1703FDDBC8A08FE81D76B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = B339E886A73B041E9028BE275DC13BBE /* PBXContainerItemProxy */;
+		};
+		E07C05EA96D94C56A8FCAE866F615FBB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-Runner";
+			target = 8B74B458B450D74B75744B87BD747314 /* Pods-Runner */;
+			targetProxy = EF1431D1F88A9F30807F0748132F4462 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		00B53A59BC98336310150280301D6BFF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C199E00A1959361AA5CB40B3B234A69D /* simple_animation_progress_bar.release.xcconfig */;
+			baseConfigurationReference = 50653DAF5AF7C91DFBDDA856D153DDEF /* simple_animation_progress_bar.release.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1349,7 +1367,7 @@
 		};
 		80647C693C2F982905BD2CB099CAD7AB /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B9BA4CC6533480ABE1BCCCA1AE23DA4A /* flutter_native_splash.release.xcconfig */;
+			baseConfigurationReference = 7AF2C416A5D701E69DEEA6F59DD6B04C /* flutter_native_splash.release.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1400,7 +1418,7 @@
 		};
 		AA7C1BB942985DC458E101B43BF107EE /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C199E00A1959361AA5CB40B3B234A69D /* simple_animation_progress_bar.release.xcconfig */;
+			baseConfigurationReference = 50653DAF5AF7C91DFBDDA856D153DDEF /* simple_animation_progress_bar.release.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1506,7 +1524,7 @@
 		};
 		BF1732B4933F647CB8A0D6123A107EED /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B9BA4CC6533480ABE1BCCCA1AE23DA4A /* flutter_native_splash.release.xcconfig */;
+			baseConfigurationReference = 7AF2C416A5D701E69DEEA6F59DD6B04C /* flutter_native_splash.release.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1557,7 +1575,7 @@
 		};
 		C552B8BF7D78A8D0BDC347968DAAEECD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 397E2B4DFF9CD27F0D49BD4A077DF735 /* simple_animation_progress_bar.debug.xcconfig */;
+			baseConfigurationReference = 006BF690150107D15B2AE4A877CEA30E /* simple_animation_progress_bar.debug.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1718,7 +1736,7 @@
 		};
 		EE4510001E4C63601689152CFE9B991B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4AE743C7F50BD955BDE578F5BE294D01 /* flutter_native_splash.debug.xcconfig */;
+			baseConfigurationReference = C2EA22D9746EEC57D09B6B618EF7B829 /* flutter_native_splash.debug.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
